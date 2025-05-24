@@ -1,0 +1,39 @@
+Programming lang:
+
+programming | scripting  lang
+
+programming : starting point : void main , c, c++,java,
+
+scripting lang : javascript python
+
+
+2 type of prog| script 
+
+1)server side : run --> console
+2)client side : run --> end user : browser
+
+2 typed of lang: 
+* statically typed: when you declare a variable you have to provide data type
+		     int a =100;
+	             c,cpp,java		
+* dynamically type: when you declare a variable you dont have to provide data type
+ 	            :compiler | inter
+		     no =100	
+		    js,python	
+
+
+use case:
+1)desktop application | games
+2)webpplication    : Django,fast -> facebook,insta..
+3)data science      : 
+
+history:
+
+
+installation:
+
+2 can write python programme in 2 ways
+as script
+inside file .py
+
+
