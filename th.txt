@@ -56,3 +56,43 @@ in explicit typecasr
 
 int -->int
 float --> float int
+
+operators:
+operators are special symbols which used to perfrom operation on operands
+
+type of operators:
+
+unery operators  : it required only operand [python does not have unery operators...] ++a , --b
+binery operators : it required min 2  operand
+ternery operators : it required min 3 only operand
+
+
+aritmetic operator: + ,- ,*,/,% , //,**
+logical oper      : and or not 
+relational ope    : <,>,==,<=,>=,!=,
+asignment op      : = , +=,-=,....
+biwise op         : ...
+
+membership op :  in ,not in
+identity op   : is ,is not
+
+ternery :  ? :
+
+
+
+asignment ope:  = right side value assign to left side variable...
+task 1: 
+take 2 no from user
+no1 = 100
+no2 = 200
+
+print no1 = 200, no2 = 100 : swap 
+1)with using temp variable
+2)without using 3rd variable
+
+
+
+
+
+
+
