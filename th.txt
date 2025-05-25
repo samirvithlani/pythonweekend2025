@@ -37,3 +37,22 @@ as script
 inside file .py
 
 
+type casting:
+
+int a = 90.90
+printf(a) 90 --> float dattype int type
+
+float f = 100.90
+int x = (int)f;
+
+implicit type casting         explicit 
+
+
+in explicit typecasr
+100 --> float : broder typecase
+
+100.20 --> int : narrow typecast
+
+
+int -->int
+float --> float int
