@@ -121,6 +121,21 @@ else:
 
 indentations		
 
+logical operators
+
+and
+or
+not
+
+cond1 and cond2
+T     T     T
+F     -     F
+T     F     F
+
+cond1 or cond2
+T     -    T
+F    T     T
+F    F     F
 
 
 
