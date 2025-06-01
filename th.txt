@@ -143,6 +143,20 @@ switch cas3 --> match case
 loops
 
 
+type of loops:
+
+entery control loops
+for, while
+exit control loops
+do while
+
+python does not have do while loop
+
+for loop:
+for(int i=1;i<=10;i++){
+	printf("%d",i);
+}
+
 
 
 
