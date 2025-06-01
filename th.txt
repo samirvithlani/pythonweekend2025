@@ -157,7 +157,17 @@ for(int i=1;i<=10;i++){
 	printf("%d",i);
 }
 
+for task 1:
+get number from user and print table:
+5
 
+5 * 1 = 5
+5 * 2 = 10
+5 * 3 = 15
+..10
+
+get number from user and print factorial:
+5! = 5 * 4 * 3 * 2 * 1 = 120
 
 
 
