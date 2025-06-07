@@ -171,6 +171,8 @@ get number from user and print factorial:
 
 
 
+Reverse no : 123 321
+
 
 
 
