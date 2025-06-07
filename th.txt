@@ -169,9 +169,21 @@ get number from user and print table:
 get number from user and print factorial:
 5! = 5 * 4 * 3 * 2 * 1 = 120
 
-
-
 Reverse no : 123 321
+
+LCM OF 2 numbe
+
+10 15 =30
+
+10 20 30
+15 30
+
+
+HFC : of 2 nos
+dynamic armstrong no
+
+153 -->3 digit 1 + 125 + 27 = 153
+1634 --> 1 + 1296 + 64 = 1634
 
 
 
