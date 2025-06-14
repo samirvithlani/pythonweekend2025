@@ -6,7 +6,8 @@ for i in name:
         upperName = upperName + chr(ord(i)-32)
     else:
         
-        upperName =  upperName + chr(ord(i))    
+        #upperName =  upperName + chr(ord(i))    
+        upperName = upperName +i
 
 print(upperName)        
         
