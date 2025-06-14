@@ -193,7 +193,8 @@ string stores data in index :
 string is iterable: loop through string
 string subsctiable: we can access single value...
 
-
+string char stores data in ascci value
+ascci ==  unicode
 
 
 
