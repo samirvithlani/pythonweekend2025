@@ -197,4 +197,8 @@ string char stores data in ascci value
 ascci ==  unicode
 
 
+remove space from between string:
+hi this is python
+hithisispython
 
+check howmany vowels in string: a e i o u

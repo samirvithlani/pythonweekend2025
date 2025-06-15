@@ -9,3 +9,12 @@ capitalize
 lstrip
 rstrip
 strip
+isalpha
+isalnum
+isspace
+isupper
+islower
+istitle
+isnumeric
+isdigit
+
