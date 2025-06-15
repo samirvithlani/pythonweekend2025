@@ -17,4 +17,8 @@ islower
 istitle
 isnumeric
 isdigit
+startsWith
+endsWith
+index
+find
 

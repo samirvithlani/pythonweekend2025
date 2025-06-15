@@ -1,4 +1,4 @@
-name = "\n"
+name = "ajay"
 #all method return is boolean
 
 print("isUpper",name.isupper())
@@ -10,3 +10,5 @@ print("isSpace",name.isspace())
 print("isAlnum",name.isalnum())
 print("isIdentifier",name.isidentifier()) #false....
 print("isPrint",name.isprintable()) #true
+print("startsWith",name.startswith("x"))
+print("endswith",name.endswith("ay"))

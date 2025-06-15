@@ -202,3 +202,11 @@ hi this is python
 hithisispython
 
 check howmany vowels in string: a e i o u
+
+declare 1 string and find index of that char
+
+java
+a
+1
+
+find index... use own logic
