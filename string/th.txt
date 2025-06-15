@@ -1,0 +1,11 @@
+len
+ord
+chr
+upper
+lower
+title
+swapcase
+capitalize
+lstrip
+rstrip
+strip
