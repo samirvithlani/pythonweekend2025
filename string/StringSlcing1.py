@@ -19,3 +19,4 @@ print(text[-1:-7:-1]) #pythonstring GNIRTS
 print(text[-1])
 print(text[-6:-1])
 print(text[-7:])
+print(text[:-3])
