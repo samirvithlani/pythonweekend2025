@@ -1,2 +1,8 @@
  1)Check if String Contains Only Digits
  #s = "12345" True s ="abc123" False
+
+
+
+please enter name or exit("exit" to exit):
+if user insert name add it to list 
+and if user typ exit exit code and print list of names
