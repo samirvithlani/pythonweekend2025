@@ -210,3 +210,25 @@ a
 1
 
 find index... use own logic
+--------------------------
+Python ds:
+1)list
+ * list is dynamic
+ * list is mutable
+ * list is ordered
+ * list is iterable
+ * list can store any data type
+ * list can store duplicate values
+ * list is subscriptable
+ * list is heterogeneous
+ * data typr of list is list
+ * list is created using square brackets []
+ * list can be nested
+ * list can be sliced
+ * list can be concatenated
+
+2)tuple
+3)set
+4)dictionary
+
+

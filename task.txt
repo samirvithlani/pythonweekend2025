@@ -1,0 +1,2 @@
+ 1)Check if String Contains Only Digits
+ #s = "12345" True s ="abc123" False
