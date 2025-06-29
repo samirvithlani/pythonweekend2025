@@ -26,3 +26,9 @@ cleanNo = [0 if i<0 else i for i in numbers]
 #         cleanNo.append(i)    
 
 print(cleanNo)    
+
+mixed = [1, "hello", 2.5, 3, True, 4]
+# Expected: [1, 3, 4]
+
+x = [i for i in mixed if type(i).__name__ == "int"]
+print(x)

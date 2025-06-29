@@ -228,6 +228,20 @@ Python ds:
  * list can be concatenated
 
 2)tuple
+ * tuple is dynamic
+ * tuple is  immutable
+ * tuple is ordered
+ * tuple is iterable
+ * tuple can store any data type
+ * tuple can store duplicate values
+ * tuple is subscriptable
+ * tuple is heterogeneous
+ * data typr of  tuple is tuple
+ * tuple is created using square brackets ()
+ * tuple can be nested
+ * list can be concatenated
+
+
 3)set
 4)dictionary
 
