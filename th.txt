@@ -244,5 +244,21 @@ Python ds:
 
 3)set
 4)dictionary
+1)dict does not allow duplicate keys
+2)dict allows duplicate values
+1)dict is dynamic
+2)dict is mutable
+3)dict is unordered
+4)dict is iterable
+5)dict subscriptable
+6)dict is heterogeneous
+7)dict store key value pair {}
+8)dict is created using curly braces {}
+9)dict can be nested
+10)dict can be concatenated
+
+
+
+
 
 
