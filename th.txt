@@ -258,6 +258,36 @@ Python ds:
 10)dict can be concatenated
 
 
+functions:
+function is a block of code which is used to perform specific task
+use | advantage of function:
+1)reusability
+
+
+
+type of functions:
+pre defined function
+user defined function
+--------------------
+4 type of functions
+1)without argument and without return type
+2)with argument and without return type
+3)without argument and with return type
+4)with argument and with return type
+
+
+void demo():
+int add()
+
+function declare:
+def demo():
+	body
+
+def demo():
+	body
+	return
+
+
 
 
 
