@@ -288,6 +288,18 @@ def demo():
 	return
 
 
+#deco -- role == admin -->
+
+getAccess(role,name)
+	print(name is accessing this function having "role".)
+
+def add(*args)
+   args --sum
+
+
+add(10,20,30)
+add(10,20,"raj")
+
 
 
 
