@@ -5,16 +5,19 @@
 
 def order_food(func): #3  func == throw_party -- address == func
     
-    def inner(): #6
-        print("ordering food...") #7
-        func()#8
+    def inner(persons): #6
+      if(persons>0):
+          print("ordering food..")
+          func(persons)
+      else:
+          print("no party...")    
     
     return inner #4   
 
 
 
 @order_food #2 #5
-def throw_party(): #9
-    print("throw party") #10
+def throw_party(no_pers): #9
+    print("throw party",no_pers) #10
 
-throw_party()    #1
+throw_party(10)    #1
