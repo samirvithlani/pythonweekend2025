@@ -300,6 +300,25 @@ def add(*args)
 add(10,20,30)
 add(10,20,"raj")
 
+file: output 
+permenent: store:
+
+open
+read/ write
+close
+
+cpp --> classes
+c -- mode r,w,a...
+python mode:
+
+path:
+absolute path :D:\royal\25-python-weekend\th.txt
+D:\royal\25-python-weekend\functions\DecoratorDemo1.py
+relative path:
+		th.txt
+		functions\DecoratorDemo1.py
+
+
 
 
 
