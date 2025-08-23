@@ -319,7 +319,7 @@ relative path:
 		functions\DecoratorDemo1.py
 
 
-
+{"name":"rma",age:23,status:active}
 
 
 

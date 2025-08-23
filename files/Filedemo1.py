@@ -11,3 +11,12 @@ with open("files/myfile2.txt","a") as file1:
 name = "RAM"
 with open("userData.txt","a") as file2:
     print(f"Hi i am user my name is {name}",file=file2)
+
+
+#data = [{"name":"ram","age":23,"city":"ahmedabad","area":"bopal"},{"name":"ajay","age":23,"city":"ahmedabad","area":"bopal"}]
+data = {"name":"ram","age":23,"city":"ahmedabad","area":"bopal"}
+with open(data["name"]+".txt","a") as file3:
+    for i ,j in data.items():
+        file3.write(f"{i} --> {j}\n")
+    print("user detail has been saved...")    
+    
