@@ -348,10 +348,23 @@ Fruits      Apple,Mango....
 
 Hosiptal    Doctors,Pai...
 
-
-
-
 inheritance
+
+	parent clas pro can use in child class this process called inheritance...
+	Home --> child
+	advantage: reusablity of property.
+
+type of inheritance
+1)single inheritance
+	a parent class -->b
+2)multilevel
+	a-->b-->c
+3)multipule
+	a,b -->c
+4)hybride
+	all kind
+5)hyricical	
+	multivel + multipule
 abstraction
 polymorephsiam
 
