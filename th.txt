@@ -330,6 +330,18 @@ encapulation:
 		    class is blueprint of object
 	object: object is real world entiy of class		  
 
+#construcotr:construcotr is special function which has same name as class name
+construcotr:construcotr is special function which can create using __init__(self)
+const will call automatically when object of class is created...
+use of const is to initilize instance variable of class
+const does not return any value
+const can have params
+
+type of const:
+default const
+param const..
+
+
 class       object
 Vehicle     Car
 Fruits      Apple,Mango....
