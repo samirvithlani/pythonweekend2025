@@ -321,5 +321,27 @@ relative path:
 
 {"name":"rma",age:23,status:active}
 
+cpp --> java -->
+oops:
+encapulation:
+	encapulation is a process where we wrap data in a single unit:
+	class,object,construcotr....
+	class:  class is group of data member and member function
+		    class is blueprint of object
+	object: object is real world entiy of class		  
+
+class       object
+Vehicle     Car
+Fruits      Apple,Mango....
+
+Hosiptal    Doctors,Pai...
+
+
+
+
+inheritance
+abstraction
+polymorephsiam
+
 
 
