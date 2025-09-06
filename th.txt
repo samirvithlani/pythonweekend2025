@@ -380,4 +380,17 @@ many for of the function:
 function overloading:
 1)create a multipule same name funciton is same class called funciton overloading
 
+operator overloading:
+-  : sub
+* : mul
+/ : trudiv
+//: floordiv
+%  : mod
+== : eq
+< : lt
+>: gt
+str:
+
+__demo__ : magic method
+
 

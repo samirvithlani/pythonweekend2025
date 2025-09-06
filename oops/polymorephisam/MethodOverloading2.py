@@ -20,3 +20,19 @@ s = Shape()
 s.area(10,20)
 s.area()
 s.area(100.0)        
+
+
+
+#print(10==10)
+#print(10 is 10)
+
+a = 10
+b = 20
+print(a==b)
+print(a is b)
+
+a = [10,20,30]
+b = [10,20,30]
+
+print(a==b)
+print(a is b)
