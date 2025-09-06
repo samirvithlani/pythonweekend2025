@@ -366,7 +366,18 @@ type of inheritance
 5)hyricical	
 	multivel + multipule
 abstraction
-polymorephsiam
+polymorephsiam:
 
+many for of the function:
+2 type of polymorephsiam are there
+
+1)compile time:
+	1)method/ function overloading...
+	2)operator overloading...
+2)run     time
+	* method overriding
+
+function overloading:
+1)create a multipule same name funciton is same class called funciton overloading
 
 
