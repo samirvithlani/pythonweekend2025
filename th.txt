@@ -425,3 +425,23 @@ UNION --> UNION [UPI]
 UNIOTANSFEE
 Transfer()
 
+
+
+OLA / UBER
+	-->calulateFare
+car --> km -->
+bike -->
+auto -->
+
+Exception handling:
+Error: syntex problem:
+Exception: stop continues flow of program
+
+in python exception always comes at runtime:
+
+error must resolve:
+exception has to handle:
+how to handle exception in python:
+
+1)using try and except block
+2)using raise keyword
