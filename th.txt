@@ -394,3 +394,34 @@ str:
 __demo__ : magic method
 
 
+overriding:
+parent class function create in child class with same signature called overriding:
+
+
+BRANCH MANAGAMENT:
+
+Royal Ahm: -> Admission(){
+					//logic..
+					//
+				}
+
+Royal Gandhinage : royal {
+
+	Admission(){
+		//supar..Ahm
+		//logic
+	}
+}
+
+
+
+BOB --> BOB-DEBIT CARD [UPI]-->
+BOBTRANSFER
+Transfer()
+
+	GOV UPI -->
+
+UNION --> UNION [UPI]
+UNIOTANSFEE
+Transfer()
+
